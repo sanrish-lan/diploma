@@ -1,0 +1,4 @@
+github.com/goccy/go-python v0.4.0 h1:IiJMThrlRXSmcJSvVIQlRuYy3J9D70TeyvL/tCqZvyY=
+github.com/goccy/go-python v0.4.0/go.mod h1:JQ/vzkceZQItKR9mijJWSbILjG6YtO44PTIxYoFI21k=
+github.com/goccy/pythonwasm2go v0.4.0 h1:/bqi3LmOW3QyWyQowm9XQ3qTXUwfIuQJFTeGPm02ncs=
+github.com/goccy/pythonwasm2go v0.4.0/go.mod h1:k1fc36gVRk5RpKWGHogTZsBPLNzSAH+9f06c8m6UmBY=

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.exe
+*.test
+bin/
+
+.DS_Store
+.vscode/
+.idea/
